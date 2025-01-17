@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Interactive Portfolio Website
 
 ## Overview
@@ -24,3 +25,6 @@ An engaging, interactive portfolio website showcasing personal skills, projects,
 
 ## Deployment
 Deploy to Netlify or Vercel for best performance and ease of use.
+=======
+# portfolio-interactive-theme
+>>>>>>> origin/main
