@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel index.html --port 1001",
     "build": "parcel build index.html",
-    "clean": "rm -rf .cache dist"
+    "clean": "rmdir /s /q .cache dist 2>nul || echo Directories not found"
   },
   "dependencies": {
     "gsap": "^3.12.2",
